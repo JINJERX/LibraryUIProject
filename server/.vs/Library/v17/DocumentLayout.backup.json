@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jinjer\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\implementations\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\implementations\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\library.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\library.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|c:\\users\\jinjer\\source\\repos\\library\\library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B328B83-E7DD-43F7-B01F-74022E8F9E22}|Library\\Library.csproj|solutionrelative:library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "Library\\DTOs\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "Library\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:26:49.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Library\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:41:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Library\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Library\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:27:37.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:58:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Implementations\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\AuthorRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Implementations\\AuthorRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:27:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:20:02.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Library\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:30:57.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "Library\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "Library\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:45:02.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:42:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:40:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Author.cs",
+              "RelativeToolTip": "Library\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:53:14.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Library\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Library\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T16:15:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Library\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\WeatherForecast.cs",
+              "RelativeToolTip": "Library\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:49:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "Library\\appsettings.json",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\appsettings.json",
+              "RelativeToolTip": "Library\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T16:15:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\BookRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Implementations\\BookRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:26:58.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookUpdateDto.cs",
+              "RelativeDocumentMoniker": "Library\\DTOs\\BookUpdateDto.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookUpdateDto.cs",
+              "RelativeToolTip": "Library\\DTOs\\BookUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:26:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookCreateDto.cs",
+              "RelativeDocumentMoniker": "Library\\DTOs\\BookCreateDto.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\BookCreateDto.cs",
+              "RelativeToolTip": "Library\\DTOs\\BookCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:26:24.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Implementations\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Implementations\\GenreRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Implementations\\GenreRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:27:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\GenreDto.cs",
+              "RelativeDocumentMoniker": "Library\\DTOs\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\DTOs\\GenreDto.cs",
+              "RelativeToolTip": "Library\\DTOs\\GenreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:27:00.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Library\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:08:44.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Library.http",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Library.http",
+              "RelativeDocumentMoniker": "Library\\Library.http",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Library.http",
+              "RelativeToolTip": "Library\\Library.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-16T16:15:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:26:59.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Library\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:36:01.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Library\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Library\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T15:29:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Models\\Genre.cs",
+              "RelativeToolTip": "Library\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:59:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Library.csproj",
+              "DocumentMoniker": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Library.csproj",
+              "RelativeDocumentMoniker": "Library\\Library.csproj",
+              "ToolTip": "C:\\Users\\jinjer\\source\\repos\\Library\\Library\\Library.csproj",
+              "RelativeToolTip": "Library\\Library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T15:27:00.243Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
